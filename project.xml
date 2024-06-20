@@ -13,6 +13,7 @@
 	<haxelib name="castle" />
 	<haxelib name="box2d" />
 	<haxelib name="hxbt" />
+	<haxelib name="babylonhx" />
 	<haxelib name="tweenxcore" />
 	
 	<!-- <haxelib name="actuate" /> -->
